@@ -1,0 +1,239 @@
+<Solution>
+  <PropertyGroup Name="Popo" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="nvhaidongzuo10.png" PListFile="nvhaidongzuo10.plist" Name=".nvhaidongzuo10_PList.Dir">
+          <PlistImageFile Name="nvhai_youshouzhang.png" Key="nvhai/youshouzhang.png" />
+          <PlistImageFile Name="biaoqing3.png" Key="biaoqing3.png" />
+          <PlistImageFile Name="biaoqing1.png" Key="biaoqing1.png" />
+          <PlistImageFile Name="biaoqing2.png" Key="biaoqing2.png" />
+          <PlistImageFile Name="xin2.png" Key="xin2.png" />
+          <PlistImageFile Name="xin1.png" Key="xin1.png" />
+          <PlistImageFile Name="nvhai_zhangzui.png" Key="nvhai/zhangzui.png" />
+          <PlistImageFile Name="nvhai_yanjing.png" Key="nvhai/yanjing.png" />
+          <PlistImageFile Name="nvhai_miyan.png" Key="nvhai/miyan.png" />
+          <PlistImageFile Name="nvhai_zuoshouzhang.png" Key="nvhai/zuoshouzhang.png" />
+          <PlistImageFile Name="nvhai_tou.png" Key="nvhai/tou.png" />
+          <PlistImageFile Name="nvhai_zuofa.png" Key="nvhai/zuofa.png" />
+          <PlistImageFile Name="nvhai_zuoshoubi.png" Key="nvhai/zuoshoubi.png" />
+          <PlistImageFile Name="nvhai_shenti.png" Key="nvhai/shenti.png" />
+          <PlistImageFile Name="nvhai_youshoubi.png" Key="nvhai/youshoubi.png" />
+          <PlistImageFile Name="nvhai_youfa.png" Key="nvhai/youfa.png" />
+          <PlistImageFile Name="zuoxiaotui.png" Key="zuoxiaotui.png" />
+          <PlistImageFile Name="youxiaotui.png" Key="youxiaotui.png" />
+          <PlistImageFile Name="nvhai_zuodatui.png" Key="nvhai/zuodatui.png" />
+          <PlistImageFile Name="nvhai_youdatui.png" Key="nvhai/youdatui.png" />
+        </PlistImageFolder>
+        <PlistImageFolder Image="LOGOdongzuo0.png" PListFile="LOGOdongzuo0.plist" Name=".LOGOdongzuo0_PList.Dir">
+          <PlistImageFile Name="55.png" Key="55.png" />
+          <PlistImageFile Name="LOGOdonghua_min.png" Key="LOGOdonghua/min.png" />
+          <PlistImageFile Name="LOGOdonghua_quan.png" Key="LOGOdonghua/quan.png" />
+          <PlistImageFile Name="LOGOdonghua_xing2.png" Key="LOGOdonghua/xing2.png" />
+          <PlistImageFile Name="LOGOdonghua_xing4.png" Key="LOGOdonghua/xing4.png" />
+          <PlistImageFile Name="LOGOdonghua_xing6.png" Key="LOGOdonghua/xing6.png" />
+          <PlistImageFile Name="LOGOdonghua_xing5.png" Key="LOGOdonghua/xing5.png" />
+          <PlistImageFile Name="LOGOdonghua_xing3.png" Key="LOGOdonghua/xing3.png" />
+          <PlistImageFile Name="LOGOdonghua_xing1.png" Key="LOGOdonghua/xing1.png" />
+          <PlistImageFile Name="LOGOdonghua_zhan.png" Key="LOGOdonghua/zhan.png" />
+          <PlistImageFile Name="LOGOdonghua_da.png" Key="LOGOdonghua/da.png" />
+          <PlistImageFile Name="LOGOdonghua_long.png" Key="LOGOdonghua/long.png" />
+          <PlistImageFile Name="LOGOdonghua_pao2.png" Key="LOGOdonghua/pao2.png" />
+          <PlistImageFile Name="LOGOdonghua_pao.png" Key="LOGOdonghua/pao.png" />
+        </PlistImageFolder>
+        <PlistParticleFile Name="jiemian_lizi.plist" />
+        <PlistImageFolder Image="fengmiannv20.png" PListFile="fengmiannv20.plist" Name=".fengmiannv20_PList.Dir">
+          <PlistImageFile Name="5.png" Key="5.png" />
+          <PlistImageFile Name="4.png" Key="4.png" />
+          <PlistImageFile Name="nv_3.png" Key="nv/3.png" />
+          <PlistImageFile Name="nv_2.png" Key="nv/2.png" />
+          <PlistImageFile Name="nv_1.png" Key="nv/1.png" />
+        </PlistImageFolder>
+        <PlistParticleFile Name="fengmian_lizi_she.plist" />
+        <PlistImageFolder Image="bubbles.png" PListFile="bubbles.plist" Name=".bubbles_PList.Dir">
+          <PlistImageFile Name="bubble_1.png" Key="bubble_1.png" />
+          <PlistImageFile Name="bubble_2.png" Key="bubble_2.png" />
+          <PlistImageFile Name="bubble_3.png" Key="bubble_3.png" />
+          <PlistImageFile Name="bubble_4.png" Key="bubble_4.png" />
+          <PlistImageFile Name="bubble_5.png" Key="bubble_5.png" />
+          <PlistImageFile Name="bubble_6.png" Key="bubble_6.png" />
+          <PlistImageFile Name="bubble_7.png" Key="bubble_7.png" />
+          <PlistImageFile Name="line.png" Key="line.png" />
+          <PlistImageFile Name="caihong1.png" Key="caihong1.png" />
+          <PlistImageFile Name="zhadan1.png" Key="zhadan1.png" />
+          <PlistImageFile Name="Particle_particle_star.png" Key="Particle/particle_star.png" />
+        </PlistImageFolder>
+        <Folder Name="Start">
+          <PlistImageFolder Image="LOGOdongzuo0.png" PListFile="LOGOdongzuo0.plist" Name=".LOGOdongzuo0_PList.Dir">
+            <PlistImageFile Name="55.png" Key="55.png" />
+            <PlistImageFile Name="LOGOdonghua_min.png" Key="LOGOdonghua/min.png" />
+            <PlistImageFile Name="LOGOdonghua_quan.png" Key="LOGOdonghua/quan.png" />
+            <PlistImageFile Name="LOGOdonghua_xing2.png" Key="LOGOdonghua/xing2.png" />
+            <PlistImageFile Name="LOGOdonghua_xing4.png" Key="LOGOdonghua/xing4.png" />
+            <PlistImageFile Name="LOGOdonghua_xing6.png" Key="LOGOdonghua/xing6.png" />
+            <PlistImageFile Name="LOGOdonghua_xing5.png" Key="LOGOdonghua/xing5.png" />
+            <PlistImageFile Name="LOGOdonghua_xing3.png" Key="LOGOdonghua/xing3.png" />
+            <PlistImageFile Name="LOGOdonghua_xing1.png" Key="LOGOdonghua/xing1.png" />
+            <PlistImageFile Name="LOGOdonghua_zhan.png" Key="LOGOdonghua/zhan.png" />
+            <PlistImageFile Name="LOGOdonghua_da.png" Key="LOGOdonghua/da.png" />
+            <PlistImageFile Name="LOGOdonghua_long.png" Key="LOGOdonghua/long.png" />
+            <PlistImageFile Name="LOGOdonghua_pao2.png" Key="LOGOdonghua/pao2.png" />
+            <PlistImageFile Name="LOGOdonghua_pao.png" Key="LOGOdonghua/pao.png" />
+          </PlistImageFolder>
+          <PlistParticleFile Name="jiemian_lizi.plist" />
+          <Image Name="continue_button.png" />
+          <Image Name="gift.png" />
+          <Image Name="gold_bg.png" />
+          <Image Name="mao.png" />
+          <Image Name="nanhai.png" />
+          <Image Name="new_button.png" />
+          <Image Name="plus.png" />
+          <Image Name="shop.png" />
+          <Image Name="start_bg.png" />
+          <Image Name="start_turn.png" />
+          <Image Name="vol.png" />
+          <Image Name="vol_1.png" />
+          <Project Name="StartLayer.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Particle">
+          <PlistParticleFile Name="benjudefen_shanshuo_lizi.plist" />
+          <PlistParticleFile Name="daoju_lizi.plist" />
+          <PlistParticleFile Name="fengmian_lizi_she.plist" />
+          <PlistParticleFile Name="libaoUI_shanshuo_lizi.plist" />
+          <PlistParticleFile Name="libao_shanshuo_lizi.plist" />
+          <PlistParticleFile Name="lishijilu_shanshuo_lizi.plist" />
+          <PlistParticleFile Name="luoxia_lizi.plist" />
+          <PlistParticleFile Name="shangdian_jinbi_shanshuo.plist" />
+        </Folder>
+        <Folder Name="Fnt">
+          <Fnt Name="gold_fnt.fnt" />
+          <Fnt Name="write_fnt.fnt" />
+        </Folder>
+        <Folder Name="Default">
+          <Fnt Name="defaultBMFont.fnt" />
+          <Image Name="Button_Disable.png" />
+          <Image Name="Button_Normal.png" />
+          <Image Name="Button_Press.png" />
+        </Folder>
+        <Folder Name="BubbleSpecial">
+          <PlistImageFolder Image="baozha0.png" PListFile="baozha0.plist" Name=".baozha0_PList.Dir">
+            <PlistImageFile Name="paopaotang_glow.png" Key="paopaotang_glow.png" />
+            <PlistImageFile Name="y.png" Key="y.png" />
+          </PlistImageFolder>
+          <PlistParticleFile Name="benjudefen_shanshuo_lizi.plist" />
+          <PlistParticleFile Name="daoju_baokai_lizi.plist" />
+          <PlistParticleFile Name="gxgg_lizi.plist" />
+          <PlistParticleFile Name="jindutiao (1).plist" />
+          <PlistImageFolder Image="paopaolong0.png" PListFile="paopaolong0.plist" Name=".paopaolong0_PList.Dir">
+            <PlistImageFile Name="paopaotang_glow.png" Key="paopaotang_glow.png" />
+            <PlistImageFile Name="guangyun.png" Key="guangyun.png" />
+            <PlistImageFile Name="gg.png" Key="gg.png" />
+            <PlistImageFile Name="y.png" Key="y.png" />
+            <PlistImageFile Name="52452.png" Key="52452.png" />
+            <PlistImageFile Name="20414.png" Key="20414.png" />
+            <PlistImageFile Name="glow01.png" Key="glow01.png" />
+            <PlistImageFile Name="guang3.png" Key="guang3.png" />
+            <PlistImageFile Name="gxgg_glow2.png" Key="gxgg_glow2.png" />
+            <PlistImageFile Name="gongxiguoguan.png" Key="gongxiguoguan.png" />
+          </PlistImageFolder>
+          <PlistParticleFile Name="piaodai_lizi.plist" />
+          <PlistParticleFile Name="yanhua01.plist" />
+          <PlistParticleFile Name="yanhua02.plist" />
+          <PlistParticleFile Name="yanhua03.plist" />
+          <File Name="baozha.ExportJson" />
+          <File Name="paopaolong.ExportJson" />
+        </Folder>
+        <Image Name="bg.png" />
+        <Image Name="bg_1.png" />
+        <Image Name="bg_2.png" />
+        <Folder Name="Fail">
+          <Image Name="affirm.png" />
+          <Image Name="cancel.png" />
+          <Image Name="fail.png" />
+          <Image Name="revive_bg.png" />
+          <Image Name="revive_time.png" />
+        </Folder>
+        <Folder Name="Gameover">
+          <Image Name="best_bg.png" />
+          <Image Name="best_score.png" />
+          <Image Name="gameover_bg.png" />
+          <Image Name="light.png" />
+          <Image Name="new_game.png" />
+          <Image Name="now_score.png" />
+          <Image Name="record_bg.png" />
+          <Image Name="return_home.png" />
+          <Image Name="score_bg.png" />
+        </Folder>
+        <Folder Name="Gift">
+          <Image Name="get.png" />
+          <Image Name="gift.png" />
+          <Image Name="gift_bg.png" />
+          <Image Name="gift_bg2.png" />
+          <Image Name="girl.png" />
+        </Folder>
+        <Image Name="mao.png" />
+        <Folder Name="Music">
+          <Audio Name="bgm.mp3" />
+          <Audio Name="Bomb.mp3" />
+          <Audio Name="Click.mp3" />
+          <Audio Name="Clock.mp3" />
+          <Audio Name="end.mp3" />
+          <Audio Name="Ending.mp3" />
+          <Audio Name="Fuhuo.mp3" />
+          <Audio Name="Guoguan.mp3" />
+          <Audio Name="Hit.mp3" />
+          <Audio Name="Remove.mp3" />
+          <Audio Name="start.mp3" />
+        </Folder>
+        <Folder Name="Pause">
+          <Image Name="continue.png" />
+          <Image Name="getGift.png" />
+          <Image Name="giftFont_1.png" />
+          <Image Name="gift_box.png" />
+          <Image Name="reStart.png" />
+          <Image Name="returnHome.png" />
+        </Folder>
+        <Folder Name="Prop">
+          <Image Name="00.png" />
+          <Image Name="001.png" />
+          <Image Name="002.png" />
+          <Image Name="02.png" />
+          <Image Name="02_press.png" />
+          <Image Name="06.png" />
+          <Image Name="07.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="countdown.png" />
+          <Image Name="countdown_bg.png" />
+          <Image Name="emitter1.png" />
+          <Image Name="emitter2.png" />
+          <Image Name="level.png" />
+        </Folder>
+        <Image Name="scoreNumber.png" />
+        <Folder Name="Shop">
+          <Image Name="RMB.png" />
+          <Image Name="shop.png" />
+          <Image Name="shop_return.png" />
+        </Folder>
+        <Image Name="start_bg.png" />
+        <Folder Name="turnplate">
+          <Image Name="center.png" />
+          <Image Name="jewel_1.png" />
+          <Image Name="jewel_2.png" />
+          <Image Name="medicine.png" />
+          <Image Name="pointer.png" />
+          <Image Name="return.png" />
+          <Image Name="return_press.png" />
+          <Image Name="rotate.png" />
+          <Image Name="rotat_press.png" />
+          <Image Name="shalou.png" />
+          <Image Name="template_bg1.png" />
+          <Image Name="turnplate.png" />
+          <Image Name="turnplate_bg.png" />
+          <Image Name="turnplate_bg1.png" />
+        </Folder>
+        <Image Name="white_font.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
