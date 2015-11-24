@@ -7,12 +7,27 @@
         <LastRunType Value="Mac" />
       </Value>
     </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Popo" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-20" />
+        <iOS_Target Value="Popo-mobile" />
+        <iOS_BundleID Value="iPhone Developer: mango workshop (5GC2VD26CT)" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="cocos2d-x-3.8" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="Start/StartLayer.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="Start/StartLayer.csd" />
+        <ActiveDocument />
       </Value>
     </Item>
   </Properties>
